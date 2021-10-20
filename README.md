@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @trgilmore
-- 👀 I’m interested in becoming a full time developer
-- 🌱 I’m currently learning Python, Java, Visual Basic, and Javascript
+- 🌱 I’m currently working in Applications Development at PennyMac Loan Services. Working with React, Node,js, and GraphQL
 - 💞️ I’m looking to collaborate on small simple open source projects, suitable for beginners.
 - 📫 How to reach me on Twitter: @tgilmore
 
